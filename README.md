@@ -14,11 +14,18 @@ This Truffle Box has all you need to create a DApp by following the tutorial. It
     $ truffle unbox sabinebertram/tutorial-truffle-box
     ```
 
-3. Start your Ganache.
+3. Open Ganache or start your development environment.
+    ```
+    $ truffle develop --log
+    ```
 
 4. Compile and migrate the smart contracts. 
     ```
     $ truffle migrate
+    ```
+    If you are using Ganache, run
+    ```
+    $ truffle migrate --ganache
     ```
 
 5. Install npm dependencies.
