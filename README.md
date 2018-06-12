@@ -21,7 +21,12 @@ This Truffle Box has all you need to create a DApp by following the tutorial. It
     $ truffle migrate
     ```
 
-5. Run the `liteserver` development server for front-end hot reloading. Smart contract changes must be manually recompiled and migrated.
+5. Install npm dependencies.
+    ```
+    $ npm install
+    ```
+
+6. Run the `liteserver` development server for front-end hot reloading. Smart contract changes must be manually recompiled and migrated.
     ```
     # optional:
     $ truffle migrate --compile-all --reset
