@@ -25,7 +25,7 @@ This Truffle Box has all you need to create a DApp by following the tutorial. It
     ```
     If you are using Ganache, run
     ```
-    $ truffle migrate --ganache
+    $ truffle migrate --network ganache
     ```
 
 5. Install npm dependencies.
