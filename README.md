@@ -1,6 +1,6 @@
 # Tutorial Truffle Box
 
-This Truffle Box has all you need to create a DApp by following the tutorial. It has been derived from the [pet-shop-box](https://github.com/truffle-box/pet-shop-box).
+This Truffle Box has all you need to create a DApp by following the tutorial. It has been derived from the [pet-shop-box](https://github.com/truffle-box/pet-shop-box). It includes the contracts from [CryptoZombies](https://cryptozombies.io/en/course/).
 
 ## Installation
 
